@@ -5,7 +5,7 @@ public class Test {
 	public void testRepo() {
 		
 		
-		System.out.println();
+		System.out.println("Hello GitHub...");
 	}
 	
 }
